@@ -28,6 +28,7 @@ This repository containing links of all the example apps demonstrating features/
 <img src="image/whatsapp.gif" height="300em" /><img src="https://thumbs.gfycat.com/UnselfishAlertIceblueredtopzebra-size_restricted.gif" height="300em" /><img src="https://thumbs.gfycat.com/BadPrestigiousChrysalis-size_restricted.gif" height="300em" />
 <img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" /><img src="image/flute1.png" height="300em" /> <img src="image/flute3.png" height="300em"/>
 <img src="image/pmdb.gif" height="300em" /><img src="image/tic.gif" height="300em" /><img src="https://thumbs.gfycat.com/MajesticWeeKangaroo-size_restricted.gif" height="300em"/><img src="https://thumbs.gfycat.com/DismalEmbellishedChicken-size_restricted.gif" height="300em"/><img src="https://raw.githubusercontent.com/imSanjaySoni/BMI-Calculator-with-flutter/master/one.png" height="300em" margin-left="5px" />
+![voting](https://user-images.githubusercontent.com/49169158/127755700-73ccca35-8918-4138-b42c-6b7d13d8e9a9.jpg)
 
 ## Flutter Example Apps (Source Code + YouTube Link)
 
@@ -364,7 +365,8 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 1.  Match the document style as closely as possible.
 2.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
 3.  Pull requests _must_ be made against `master` branch for this particular repository.
-4.  Check for existing [issues](https://github.com/iampawan/FlutterExampleApps/issues) first, before filing an issue.
+4.  Check for existing [issues](https://github.com/iampawan/Flutter
+Apps/issues) first, before filing an issue.
 5.  Make sure you follow the set standard as all other projects in this repo do
 6.  Have fun!
 
